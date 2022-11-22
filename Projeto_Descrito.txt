@@ -1,0 +1,7 @@
+
+Lixeira Inteligente
+
+Descricao do Proposito
+
+
+O objetivo principal projetoo e a criação e a demonstração de um protótipo inteligente de monitoramento de capacidade utilizada de lixeiras, utilizando um microcontrolador DOIT ESP32 – WROOM-32D, sensores, atuadores e conexão com a Internet através do protocolo de comunicação MQTT, que possa ter uma aplicação prática na administração e monitoramento dos dispensadores de resíduos (lixeiras) localizados em ambientes com grande fluxo de pessoas.
